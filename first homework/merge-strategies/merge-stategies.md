@@ -1,6 +1,6 @@
 # Merge Strategies
 
-## ၁. different types of merge strategies
+## different types of merge strategies
 
 merge တယ်ဆိုတာ branch နှစ်ခုက changes တွေကိုပေါင်းတာဖြစ်ပါတယ်
 
